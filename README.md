@@ -130,3 +130,8 @@ Contributions are what make the open source community such an amazing place to b
 
 [`E-Mail`](mailto:alok27a@gmail.com)
 [`LinkedIn`](https://www.linkedin.com/in/alok-mathur-5aab4534/)
+
+### Prasoon Soni
+
+[`E-Mail`](mailto:prasoonsoni.work@gmail.com)
+[`LinkedIn`](https://www.linkedin.com/in/prasoonsoni/)
