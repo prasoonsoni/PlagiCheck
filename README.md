@@ -49,7 +49,9 @@ In level-1, the tool checks for plagiarism in the introduction, abstract, and re
 In level-2, the tool performs a full paper plagiarism check to provide comprehensive detection results. Advanced algorithms are used to scan the entire paper for plagiarism and generate a detailed report that highlights any similarities found. The multi-level approach is aimed at providing an accurate and efficient plagiarism detection system that can identify even the most sophisticated forms of plagiarism, such as when text is heavily reworded or when original text is replaced with similar text using foreign characters.
 ## ⚒️ Technologies used ?
 
-* NodeJS, ExpressJS, MongoDB, FastAPI
+* Frontend - React.js, ChakraUI
+* Backend - Node.js, TypeScript, ExpressJS, MongoDB
+* NLP - AHP Algorithm, FastAPI
 
 ## 🧪Test the APIs 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/17342551-91ef93d2-fe5d-4ffa-90d0-136ac36b5d16?action=collection%2Ffork&collection-url=entityId%3D17342551-91ef93d2-fe5d-4ffa-90d0-136ac36b5d16%26entityType%3Dcollection%26workspaceId%3D1fdff9d9-9b5e-4044-9f83-d030a0648257)
